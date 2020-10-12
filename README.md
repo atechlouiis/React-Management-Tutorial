@@ -1,5 +1,5 @@
 ## Management System
-본 프로젝트는 REACT 강의 클론 코딩입니다.
+본 프로젝트는 REACT 강의 클론 코딩입니다. GIT 변경 확인용입니다.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
